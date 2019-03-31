@@ -1,0 +1,6 @@
+framework module NTAPI {
+  umbrella header "NTAPI.h"
+
+  export *
+  module * { export * }
+}
